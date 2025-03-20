@@ -1,0 +1,76 @@
+# 创建项目目录
+mkdir data-mining-guide
+cd data-mining-guide
+
+# 初始化项目
+npm init -y
+git init
+
+# 安装VuePress依赖
+npm install -D vuepress@next
+# 安装打包工具和主题
+npm install -D @vuepress/bundler-vite@next @vuepress/theme-default@next
+# 安装插件
+npm install @vuepress/utils@next @vuepress/plugin-register-components@next 
+# 安装 sass 相关依赖
+npm install -D sass-embedded
+# 安装数学公式插件
+npm i -D @vuepress/plugin-markdown-math@next
+npm i -D mathjax-full
+
+mkdir docs
+mkdir docs/.vuepress
+mkdir docs/.vuepress/public
+mkdir docs/.vuepress/styles 
+
+mkdir -p docs/.vuepress/public/images
+mkdir -p docs/.vuepress/public/resources/ppt
+mkdir -p docs/.vuepress/public/resources/docs
+mkdir -p docs/.vuepress/public/notebooks
+mkdir -p docs/.vuepress/public/images/icons
+
+# 创建必要的目录结构
+mkdir -p docs/overview
+mkdir -p docs/learning-path
+mkdir -p docs/core/preprocessing
+mkdir -p docs/core/classification
+mkdir -p docs/core/clustering
+mkdir -p docs/core/prediction
+mkdir -p docs/projects
+mkdir -p docs/about
+
+# 运行
+npm run docs:dev 
+# 清理缓存
+npm run docs:clean-dev 
+
+# 打包
+npm run docs:build
+
+# 打包后运行
+
+# 安装 serve
+npm install -g serve
+
+# 进入 dist 目录
+cd docs/.vuepress/dist
+
+# 启动服务器
+serve
+
+
+
+# 国际化 
+# 创建英文版本的主目录
+mkdir -p docs/en
+
+# 创建英文版本的各个子目录
+mkdir -p docs/en/overview
+mkdir -p docs/en/learning-path
+mkdir -p docs/en/core/preprocessing
+mkdir -p docs/en/core/classification
+mkdir -p docs/en/core/clustering
+mkdir -p docs/en/core/regression
+mkdir -p docs/en/projects
+mkdir -p docs/en/resources
+mkdir -p docs/en/about
