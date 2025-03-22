@@ -63,6 +63,17 @@ npm run docs:dev
 npm run docs:build
 ```
 
+### （可选）打包后运行
+
+#### 安装 serve
+npm install -g serve
+
+#### 进入打包后的 dist 目录
+cd docs/.vuepress/dist
+
+#### 启动服务器
+serve
+
 
 ## 贡献
 
