@@ -417,6 +417,8 @@ Regression evaluation metrics are important tools for selecting and optimizing r
 2. Why can R² be negative, and what does this mean?
 3. How can the most appropriate evaluation metric be selected based on business needs?
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/regression.html" class="button">Go to Practice Project</a>
 </div>

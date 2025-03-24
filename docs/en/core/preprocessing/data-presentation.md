@@ -524,6 +524,8 @@ Data representation is a fundamental step in data mining. Proper data representa
 2. How does feature scaling affect machine learning algorithms?
 3. How do you handle datasets with both numerical and categorical features?
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/preprocessing.html" class="button">Go to Practice Projects</a>
 </div>

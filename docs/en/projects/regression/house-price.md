@@ -10,7 +10,7 @@
       <li><strong>Type</strong>: Regression - Intermediate</li>
       <!-- <li><strong>Estimated Time</strong>: 4-6 hours</li> -->
       <li><strong>Skills</strong>: Feature Engineering, Regression Models, Model Evaluation</li>
-      <li><strong>Relevant Knowledge Module</strong>: <a href="/core/regression/linear-regression.html">Regression Analysis</a></li>
+      <li><strong>Relevant Knowledge Module</strong>: <a href="/en/core/regression/linear-regression.html">Regression Analysis</a></li>
     </ul>
   </div>
 </div>
@@ -257,5 +257,5 @@ In real-world applications, house price prediction models can help buyers assess
 3. How could you apply this model to other cities? What factors would you need to consider?
 
 <div class="practice-link">
-  <a href="/projects/regression/sales-forecast.html" class="button">Next Project: Sales Forecasting</a>
+  <a href="/en/projects/regression/sales-forecast.html" class="button">Next Project: Sales Forecasting</a>
 </div>

@@ -388,6 +388,8 @@ print(f"V-measure: {v_measure:.3f}")
 2. 不同评价指标可能给出不同的最佳K值，如何处理这种情况？
 3. 如何将领域知识融入聚类评价过程？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/clustering.html" class="button">前往实践项目</a>
 </div> 

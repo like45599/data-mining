@@ -379,6 +379,8 @@ Choosing the right classification algorithm is a critical step in the data scien
 2. How do you balance prediction performance and interpretability?
 3. Why do ensemble methods typically improve classification performance?
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/classification.html" class="button">Go to Practice Project</a>
 </div>

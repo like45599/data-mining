@@ -2,15 +2,15 @@
   <div class="did-you-know">
     <div class="did-you-know__header">
       <span class="did-you-know__icon">💡</span>
-      <h3>你知道吗？</h3>
+      <h3>{{ headerText }}</h3>
     </div>
     <div class="did-you-know__content">
       <p>{{ facts[currentFactIndex] }}</p>
     </div>
     <div class="did-you-know__footer">
-      <button @click="prevFact" class="did-you-know__button">上一条</button>
+      <button @click="prevFact" class="did-you-know__button">{{ prevButtonText }}</button>
       <span class="did-you-know__counter">{{ currentFactIndex + 1 }}/{{ facts.length }}</span>
-      <button @click="nextFact" class="did-you-know__button">下一条</button>
+      <button @click="nextFact" class="did-you-know__button">{{ nextButtonText }}</button>
     </div>
   </div>
 </template>
@@ -60,17 +60,47 @@ export default {
         ]
       },
       factTranslations: {
-        "数据挖掘一词最早出现在1990年代初，但其基本概念可以追溯到更早的统计分析和模式识别研究。": 
-          "The term 'data mining' first appeared in the early 1990s, but its basic concepts can be traced back to earlier statistical analysis and pattern recognition research.",
-        // 其他翻译...
+        general: {
+          "数据挖掘一词最早出现在1990年代初，但其基本概念可以追溯到更早的统计分析和模式识别研究。": 
+            "The term 'data mining' first appeared in the early 1990s, but its basic concepts can be traced back to earlier statistical analysis and pattern recognition research.",
+          "Netflix曾举办一个著名的竞赛，悬赏100万美元寻找能够提高其推荐系统准确率的算法。":
+            "Netflix once held a famous competition offering $1 million to find an algorithm that could improve their recommendation system accuracy.",
+          "决策树算法的历史可以追溯到1960年代，最早用于社会学研究。":
+            "The history of decision tree algorithms can be traced back to the 1960s, when they were first used in sociological research.",
+          "K-Means算法虽然简单，但在50多年后的今天仍然是最常用的聚类算法之一。":
+            "Despite its simplicity, K-Means remains one of the most commonly used clustering algorithms even after 50 years.",
+          "支持向量机(SVM)的理论基础来自于1960年代的统计学习理论，但直到1990年代才真正流行起来。":
+            "Support Vector Machines (SVM) are based on statistical learning theory from the 1960s, but didn't become popular until the 1990s."
+        },
+        preprocessing: {
+          "数据科学家通常花费60-80%的时间在数据清洗和预处理上。":
+            "Data scientists typically spend 60-80% of their time on data cleaning and preprocessing.",
+          "在大型数据项目中，良好的数据预处理可以将模型性能提高20%以上。":
+            "In large data projects, good preprocessing can improve model performance by more than 20%.",
+          "缺失值处理方法的选择可能比模型选择对最终结果影响更大。":
+            "The choice of missing value handling method can have a greater impact on final results than model selection.",
+          "特征工程被认为是数据科学中最重要的技能之一，往往比算法选择更能提升模型性能。":
+            "Feature engineering is considered one of the most important skills in data science, often improving model performance more than algorithm selection."
+        },
+        // ... 其他类别的翻译
       }
     }
   },
   computed: {
+    headerText() {
+      return this.$lang === 'en-US' ? 'Did You Know?' : '你知道吗？'
+    },
+    prevButtonText() {
+      return this.$lang === 'en-US' ? 'Previous' : '上一条'
+    },
+    nextButtonText() {
+      return this.$lang === 'en-US' ? 'Next' : '下一条'
+    },
     facts() {
       const lang = this.$lang;
-      if (lang === 'en-US') {
-        return this.factsByCategory[this.category].map(fact => this.factTranslations[fact] || fact);
+      if (lang === 'en-US' && this.factTranslations[this.category]) {
+        const translations = this.factTranslations[this.category];
+        return this.factsByCategory[this.category].map(fact => translations[fact] || fact);
       }
       return this.factsByCategory[this.category];
     }

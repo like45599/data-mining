@@ -271,7 +271,7 @@ Practical application of data mining is an ongoing learning and improvement proc
 - Open-source projects and communities
 
 <div class="practice-link">
-  <a href="/projects/" class="button">Explore Practical Projects</a>
+  <a href="/en/projects/" class="button">Explore Practical Projects</a>
 </div>
 
 <style>

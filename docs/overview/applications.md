@@ -294,12 +294,15 @@ print(anomalies[['transaction_id', 'amount', 'time_since_last_transaction']].hea
 2. 如何平衡数据挖掘的创新应用和伦理考量？
 3. 未来十年，数据挖掘可能出现哪些新的应用领域？
 
-<div class="practice-link">
-  <a href="/overview/tools.html" class="button">下一节：数据挖掘工具</a>
-</div>
 
 ## 数据挖掘应用案例
 
 以下是数据挖掘在不同领域的实际应用案例：
 
 <CaseStudies /> 
+
+<BackToPath />
+
+<div class="practice-link">
+  <a href="/overview/tools.html" class="button">下一节：数据挖掘工具</a>
+</div>

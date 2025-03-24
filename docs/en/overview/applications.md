@@ -294,12 +294,15 @@ Data mining has wide applications across industries, from business marketing to 
 2. How can we balance innovative applications of data mining with ethical considerations?
 3. What new application areas of data mining might emerge in the next decade?
 
-<div class="practice-link">
-  <a href="/overview/tools.html" class="button">Next Section: Data Mining Tools</a>
-</div>
 
 ## Data Mining Application Cases
 
 Here are real-world case studies of data mining applications in different fields:
 
 <CaseStudies />
+
+<BackToPath />
+
+<div class="practice-link">
+  <a href="/en/overview/tools.html" class="button">Next Section: Data Mining Tools</a>
+</div>

@@ -133,6 +133,8 @@ Data mining is the process of extracting valuable knowledge from large datasets,
 2. Can you think of any real-world examples of data mining applications in daily life?
 3. What technical and ethical challenges does data mining face?
 
+<BackToPath />
+
 <div class="practice-link">
-  <a href="/overview/process.html" class="button">Next Section: Data Mining Process</a>
+  <a href="/en/overview/process.html" class="button">Next Section: Data Mining Process</a>
 </div>

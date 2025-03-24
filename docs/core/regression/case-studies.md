@@ -636,6 +636,8 @@ for i in range(5):
 2. 在实际业务场景中，如何平衡模型复杂度和可解释性？
 3. 如何处理回归分析中的数据质量问题？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/regression.html" class="button">前往实践项目</a>
 </div> 

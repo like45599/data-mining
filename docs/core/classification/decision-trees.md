@@ -406,6 +406,8 @@ print(f"单棵决策树准确率: {dt_accuracy:.4f}")
 2. 如何平衡决策树的复杂度和预测性能？
 3. 为什么随机森林通常比单棵决策树表现更好？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/classification.html" class="button">前往实践项目</a>
 </div> 

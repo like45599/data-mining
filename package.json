@@ -4,10 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite dev",
     "build": "vite build",
     "preview": "vite preview",
-    "docs:dev": "vuepress dev docs",
+    "docs:dev": "vuepress dev docs --port 3001 --host 0.0.0.0",
     "docs:build": "vuepress build docs",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
     "docs:update-package": "npx vp-update"

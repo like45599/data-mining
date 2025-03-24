@@ -497,6 +497,8 @@ plt.show()
 2. 如何平衡模型的预测性能和解释性？
 3. 模型集成为什么通常能提高预测性能？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/regression.html" class="button">前往实践项目</a>
 </div> 

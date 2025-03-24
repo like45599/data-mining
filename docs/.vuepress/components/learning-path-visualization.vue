@@ -28,7 +28,7 @@
           <h4>{{ isEnglish ? 'Core Topics' : '核心主题' }}</h4>
           <ul>
             <li v-for="(topic, topicIndex) in steps[activeStep].topics" :key="topicIndex">
-              <a :href="topic.link">{{ topic.title }}</a>
+              <a :href="topic.link" @click="setFromLearningPath">{{ topic.title }}</a>
             </li>
           </ul>
         </div>
@@ -60,7 +60,7 @@
         ></div>
       </div>
       <div class="learning-path__progress-text">
-        完成度: {{ Math.round((activeStep / (steps.length - 1)) * 100) }}%
+        {{ isEnglish ? 'Completion' : '完成度' }}: {{ Math.round((activeStep / (steps.length - 1)) * 100) }}%
       </div>
     </div>
   </div>
@@ -305,6 +305,9 @@ export default {
   methods: {
     setActiveStep(index) {
       this.activeStep = index;
+    },
+    setFromLearningPath() {
+      localStorage.setItem('fromLearningPath', 'true');
     }
   }
 };

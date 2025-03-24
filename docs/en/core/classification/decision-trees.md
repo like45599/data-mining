@@ -406,6 +406,8 @@ Decision trees are an intuitive and powerful machine learning algorithm used for
 2. How can you balance the complexity and predictive performance of a decision tree?
 3. Why do Random Forests typically perform better than a single decision tree?
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/classification.html" class="button">Go to Practice Projects</a>
 </div>

@@ -10,7 +10,7 @@
       <li><strong>Type</strong>: Clustering Application</li>
       <!-- <li><strong>Estimated Time</strong>: 4-6 hours</li> -->
       <li><strong>Skills</strong>: Image Processing, K-Means Clustering, Feature Extraction, Visualization</li>
-      <li><strong>Relevant Knowledge Module</strong>: <a href="/core/clustering/kmeans.html">Clustering Algorithms</a></li>
+      <li><strong>Relevant Knowledge Module</strong>: <a href="/en/core/clustering/kmeans.html">Clustering Algorithms</a></li>
     </ul>
   </div>
 </div>
@@ -357,5 +357,5 @@ Color segmentation is a simple yet powerful method for image analysis, helping u
 3. How can color segmentation be combined with other image features (such as texture, shape) for a more comprehensive image understanding?
 
 <div class="practice-link">
-  <a href="/projects/regression/house-price.html" class="button">Next Module: Prediction and Regression Project</a>
+  <a href="/en/projects/regression/house-price.html" class="button">Next Module: Prediction and Regression Project</a>
 </div>

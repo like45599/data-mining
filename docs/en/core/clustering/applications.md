@@ -475,6 +475,8 @@ Clustering analysis has broad applications in customer segmentation, anomaly det
 2. How do you evaluate the business value of a clustering solution in practice?
 3. How can clustering analysis be integrated with other data mining techniques?
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/clustering.html" class="button">Go to Practice Projects</a>
 </div>

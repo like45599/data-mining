@@ -471,6 +471,8 @@ plt.show()
 
 非线性回归是处理复杂数据关系的强大工具，但选择合适的模型和避免过拟合是关键挑战。通过理解不同模型的特性、适当的正则化和交叉验证，可以构建既准确又稳健的非线性回归模型。
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/prediction.html" class="button">前往实践项目</a>
 </div>

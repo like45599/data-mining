@@ -415,6 +415,8 @@ SVM is a powerful classification algorithm that, through margin maximization and
 2. In what cases should SVM be chosen over other classification algorithms?
 3. How can SVM's computational efficiency be addressed with large datasets?
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/classification.html" class="button">Go to Practice Project</a>
 </div>

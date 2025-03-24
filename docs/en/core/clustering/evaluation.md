@@ -388,6 +388,8 @@ Clustering evaluation is a crucial step in clustering analysis that helps us sel
 2. Different evaluation metrics may give different optimal K values. How should such situations be handled?
 3. How can domain knowledge be incorporated into the clustering evaluation process?
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/clustering.html" class="button">Go to Practice Project</a>
 </div>

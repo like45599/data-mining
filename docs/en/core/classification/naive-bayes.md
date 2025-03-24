@@ -362,6 +362,8 @@ Naive Bayes is a simple yet powerful classification algorithm, especially suitab
 2. In what situations should one choose Naive Bayes over other classification algorithms?
 3. How can Naive Bayes be improved to better handle dependencies between features?
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/classification.html" class="button">Proceed to Practice Projects</a>
 </div>

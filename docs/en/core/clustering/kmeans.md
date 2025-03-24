@@ -372,6 +372,8 @@ K-Means is a simple yet powerful clustering algorithm. Despite its limitations, 
 2. How can we address K-Means' sensitivity to outliers?
 3. Apart from the elbow method and silhouette coefficient, what other methods can be used to determine the optimal K?
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/clustering.html" class="button">Go to Practice Project</a>
 </div>

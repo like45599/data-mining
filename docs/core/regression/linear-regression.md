@@ -425,6 +425,8 @@ plt.show()
 
 线性回归是数据挖掘和机器学习中最基础的算法之一，尽管简单，但在许多实际应用中表现良好。理解线性回归的原理和假设，掌握参数估计方法和正则化技术，对于构建有效的预测模型至关重要。
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/prediction.html" class="button">前往实践项目</a>
 </div> 

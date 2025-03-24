@@ -11,13 +11,13 @@ In today's age of data explosion, data mining techniques have become a key capab
 
 ## How to Use This Website?
 
-1. Start with the [Data Mining Overview](/overview/) to understand the basic concepts
-2. Refer to the [Learning Path](/learning-path/) to plan your learning process
-3. Dive into the four [Core Knowledge](/core/preprocessing/data-presentation.html) modules
-4. Consolidate what you've learned through [Practical Projects](/projects/)
-5. Utilize [Learning Resources](/resources/) to further expand your knowledge
+1. Start with the [Data Mining Overview](/en/overview/) to understand the basic concepts
+2. Refer to the [Learning Path](/en/learning-path/) to plan your learning process
+3. Dive into the four [Core Knowledge](/en/core/preprocessing/data-presentation.html) modules
+4. Consolidate what you've learned through [Practical Projects](/en/projects/)
+5. Utilize [Learning Resources](/en/resources/) to further expand your knowledge
 
 <div class="custom-action-buttons">
-  <a href="/learning-path/" class="custom-button primary">View Learning Path</a>
-  <a href="/projects/" class="custom-button secondary">Start Practical Projects</a>
+  <a href="/en/learning-path/" class="custom-button primary">View Learning Path</a>
+  <a href="/en/projects/" class="custom-button secondary">Start Practical Projects</a>
 </div>

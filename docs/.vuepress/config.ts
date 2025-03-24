@@ -9,7 +9,9 @@ const __dirname = getDirname(import.meta.url)
 
 export default defineUserConfig({
   bundler: viteBundler(),
-  
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]  // 假设你的图片名为 favicon.ico
+  ],
   lang: 'zh-CN',
   title: '数据挖掘学习指南',
   description: '一个帮助学生更好地理解数据挖掘课程的指南网站',

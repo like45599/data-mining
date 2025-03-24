@@ -10,7 +10,7 @@
       <li><strong>Type</strong>: Binary classification</li>
       <!-- <li><strong>Estimated time</strong>: 4-6 hours</li> -->
       <li><strong>Skills</strong>: Data cleaning, feature engineering, classification algorithms, model evaluation</li>
-      <li><strong>Related knowledge module</strong>: <a href="/core/classification/svm.html">Classification algorithms</a></li>
+      <li><strong>Related knowledge module</strong>: <a href="/en/core/classification/svm.html">Classification algorithms</a></li>
     </ul>
   </div>
 </div>
@@ -307,5 +307,5 @@ In practical applications, such analysis can help us understand the key factors 
 3. Besides accuracy, what other metrics can we use to evaluate model effectiveness?
 
 <div class="practice-link">
-  <a href="/projects/classification/spam-filter.html" class="button">Next item: Spam filter</a>
+  <a href="/en/projects/classification/spam-filter.html" class="button">Next item: Spam filter</a>
 </div> 

@@ -29,7 +29,7 @@ Prediction and regression analysis is widely applied in:
 
 The following projects focus on the applications of prediction and regression analysis, helping you master this important data mining skill:
 
-### [House Price Prediction Model](/projects/regression/house-price.html)
+### [House Price Prediction Model](/en/projects/regression/house-price.html)
 
 <div class="project-card">
   <div class="project-card__header">
@@ -49,11 +49,11 @@ The following projects focus on the applications of prediction and regression an
     </div>
   </div>
   <div class="project-card__footer">
-    <a href="/projects/regression/house-price.html" class="button">View Details</a>
+    <a href="/en/projects/regression/house-price.html" class="button">View Details</a>
   </div>
 </div>
 
-### [Sales Forecasting](/projects/regression/sales-forecast.html)
+### [Sales Forecasting](/en/projects/regression/sales-forecast.html)
 
 <div class="project-card">
   <div class="project-card__header">
@@ -73,11 +73,11 @@ The following projects focus on the applications of prediction and regression an
     </div>
   </div>
   <div class="project-card__footer">
-    <a href="/projects/regression/sales-forecast.html" class="button">View Details</a>
+    <a href="/en/projects/regression/sales-forecast.html" class="button">View Details</a>
   </div>
 </div>
 
-### [Anomaly Detection and Forecasting](/projects/regression/anomaly-detection.html)
+### [Anomaly Detection and Forecasting](/en/projects/regression/anomaly-detection.html)
 
 <div class="project-card">
   <div class="project-card__header">
@@ -97,7 +97,7 @@ The following projects focus on the applications of prediction and regression an
     </div>
   </div>
   <div class="project-card__footer">
-    <a href="/projects/regression/anomaly-detection.html" class="button">View Details</a>
+    <a href="/en/projects/regression/anomaly-detection.html" class="button">View Details</a>
   </div>
 </div>
 
@@ -154,5 +154,5 @@ Prediction and regression analysis is one of the core applications in data minin
 4. Explore advanced applications of time series analysis and anomaly detection
 
 <div class="practice-link">
-  <a href="/projects/regression/house-price.html" class="button">Start Your First Prediction Project</a>
+  <a href="/en/projects/regression/house-price.html" class="button">Start Your First Prediction Project</a>
 </div>

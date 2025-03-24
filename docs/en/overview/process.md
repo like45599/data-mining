@@ -263,6 +263,8 @@ Data mining is a structured process, from business understanding to model deploy
 2. What common challenges might be encountered during the data preparation phase, and how can they be overcome?
 3. How do you balance model complexity and interpretability requirements?
 
+<BackToPath />
+
 <div class="practice-link">
-  <a href="/overview/applications.html" class="button">Next section: Data mining applications</a>
+  <a href="/en/overview/applications.html" class="button">Next section: Data mining applications</a>
 </div> 

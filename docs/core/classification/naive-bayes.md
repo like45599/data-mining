@@ -346,6 +346,8 @@ for email, pred in zip(new_emails, predictions):
 2. 在什么情况下应该选择朴素贝叶斯而非其他分类算法？
 3. 如何改进朴素贝叶斯以处理特征间的依赖关系？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/classification.html" class="button">前往实践项目</a>
 </div> 

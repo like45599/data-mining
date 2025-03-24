@@ -425,6 +425,8 @@ plt.show()
 
 Linear regression is one of the most fundamental algorithms in data mining and machine learning. Although simple, it performs well in many practical applications. Understanding the principles and assumptions of linear regression, mastering parameter estimation methods and regularization techniques is crucial for building effective predictive models.
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/prediction.html" class="button">Go to Practice Projects</a>
 </div>

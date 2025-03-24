@@ -415,6 +415,8 @@ SVM是一种强大的分类算法，通过最大化间隔和核技巧，能够�
 2. 在什么情况下应该选择SVM而非其他分类算法？
 3. 如何处理SVM在大规模数据集上的计算效率问题？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/classification.html" class="button">前往实践项目</a>
 </div> 

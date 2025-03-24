@@ -122,8 +122,8 @@ As a beginner, it is important to build a solid foundation and a comprehensive u
 - Apply simple machine learning algorithms to solve problems
 - Evaluate model performance and perform basic tuning
 
-Next, you can proceed to the [Advanced Learning](learning-path/advanced.html) phase, where you will dive deeper into more complex algorithms and techniques.
+Next, you can proceed to the [Advanced Learning](/en/learning-path/advanced.html) phase, where you will dive deeper into more complex algorithms and techniques.
 
 <div class="practice-link">
-  <a href="/learning-path/advanced.html" class="button">Go to Advanced Learning</a>
+  <a href="/en/learning-path/advanced.html" class="button">Go to Advanced Learning</a>
 </div>

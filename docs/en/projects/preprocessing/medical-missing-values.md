@@ -10,7 +10,7 @@
       <li><strong>Type</strong>: Missing Value Handling</li>
       <!-- <li><strong>Estimated Time</strong>: 5-7 hours</li> -->
       <li><strong>Skills</strong>: Missing Pattern Analysis, Multiple Imputation, KNN Imputation, Model-based Imputation</li>
-      <li><strong>Related Knowledge Module</strong>: <a href="/core/preprocessing/data-presentation.html">Data Preprocessing</a></li>
+      <li><strong>Related Knowledge Module</strong>: <a href="/en/core/preprocessing/data-presentation.html">Data Preprocessing</a></li>
     </ul>
   </div>
 </div>
@@ -357,5 +357,5 @@ In practical applications, these techniques can help healthcare institutions bet
 3. When handling sensitive medical data, how can we balance data completeness with the need for privacy protection?
 
 <div class="practice-link">
-  <a href="/projects/classification/titanic.html" class="button">Next Module: Classification Project</a>
+  <a href="/en/projects/classification/titanic.html" class="button">Next Module: Classification Project</a>
 </div>

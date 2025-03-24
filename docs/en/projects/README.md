@@ -31,28 +31,28 @@ We classify the projects according to core knowledge modules:
 ### Data Preprocessing Projects
 
 These projects focus on data cleaning, missing value handling, and feature engineering:
-- [E-commerce User Data Cleaning and Analysis](/projects/preprocessing/ecommerce-data.html)
-- [Medical Data Missing Value Handling](/projects/preprocessing/medical-missing-values.html)
+- [E-commerce User Data Cleaning and Analysis](/en/projects/preprocessing/ecommerce-data.html)
+- [Medical Data Missing Value Handling](/en/projects/preprocessing/medical-missing-values.html)
 
 ### Classification Algorithm Projects
 
 These projects apply various classification algorithms to solve real-world problems:
-- [Titanic Survival Prediction](/projects/classification/titanic.html)
-- [Spam Filter](/projects/classification/spam-filter.html)
-- [Credit Risk Assessment](/projects/classification/credit-risk.html)
+- [Titanic Survival Prediction](/en/projects/classification/titanic.html)
+- [Spam Filter](/en/projects/classification/spam-filter.html)
+- [Credit Risk Assessment](/en/projects/classification/credit-risk.html)
 
 ### Clustering Analysis Projects
 
 These projects use clustering algorithms to discover patterns in data:
-- [Customer Segmentation Analysis](/projects/clustering/customer-segmentation.html)
-- [Image Color Segmentation](/projects/clustering/image-segmentation.html)
+- [Customer Segmentation Analysis](/en/projects/clustering/customer-segmentation.html)
+- [Image Color Segmentation](/en/projects/clustering/image-segmentation.html)
 
 ### Prediction and Regression Projects
 
 These projects use regression analysis for prediction:
-- [House Price Prediction Model](/projects/regression/house-price.html)
-- [Sales Forecasting](/projects/regression/sales-forecast.html)
-- [Anomaly Detection and Prediction](/projects/regression/anomaly-detection.html)
+- [House Price Prediction Model](/en/projects/regression/house-price.html)
+- [Sales Forecasting](/en/projects/regression/sales-forecast.html)
+- [Anomaly Detection and Prediction](/en/projects/regression/anomaly-detection.html)
 
 ## How to Use These Projects
 
@@ -96,7 +96,7 @@ It is recommended to follow the following workflow for each project:
 
 Here are brief introductions to some selected projects. Click the links to see more details.
 
-### [Titanic Survival Prediction](/projects/classification/titanic.html)
+### [Titanic Survival Prediction](/en/projects/classification/titanic.html)
 
 <div class="project-card">
   <div class="project-card__header">
@@ -116,11 +116,11 @@ Here are brief introductions to some selected projects. Click the links to see m
     </div>
   </div>
   <div class="project-card__footer">
-    <a href="/projects/classification/titanic.html" class="button">View Details</a>
+    <a href="/en/projects/classification/titanic.html" class="button">View Details</a>
   </div>
 </div>
 
-### [Customer Segmentation Analysis](/projects/clustering/customer-segmentation.html)
+### [Customer Segmentation Analysis](/en/projects/clustering/customer-segmentation.html)
 
 <div class="project-card">
   <div class="project-card__header">
@@ -140,11 +140,11 @@ Here are brief introductions to some selected projects. Click the links to see m
     </div>
   </div>
   <div class="project-card__footer">
-    <a href="/projects/clustering/customer-segmentation.html" class="button">View Details</a>
+    <a href="/en/projects/clustering/customer-segmentation.html" class="button">View Details</a>
   </div>
 </div>
 
-### [House Price Prediction Model](/projects/regression/house-price.html)
+### [House Price Prediction Model](/en/projects/regression/house-price.html)
 
 <div class="project-card">
   <div class="project-card__header">
@@ -164,7 +164,7 @@ Here are brief introductions to some selected projects. Click the links to see m
     </div>
   </div>
   <div class="project-card__footer">
-    <a href="/projects/regression/house-price.html" class="button">View Details</a>
+    <a href="/en/projects/regression/house-price.html" class="button">View Details</a>
   </div>
 </div>
 
@@ -221,6 +221,6 @@ Through practical projects, you can apply the theoretical knowledge of data mini
 4. Consider creating your own project to solve a problem that interests you.
 
 <div class="practice-link">
-  <a href="/projects/classification/titanic.html" class="button">Start Your First Project</a>
+  <a href="/en/projects/classification/titanic.html" class="button">Start Your First Project</a>
 </div>
 

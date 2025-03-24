@@ -475,6 +475,8 @@ for i in range(best_k):
 2. 在实际应用中，如何评估聚类方案的业务价值？
 3. 聚类分析如何与其他数据挖掘技术结合使用？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/clustering.html" class="button">前往实践项目</a>
 </div> 

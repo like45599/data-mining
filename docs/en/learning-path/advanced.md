@@ -212,8 +212,8 @@ After completing the advanced learning phase, you should be able to:
 - Build and optimize high-performance models
 - Interpret model results and extract business insights
 
-Next, you can enter the [Practical Applications](learning-path/practical.html) phase to learn how to apply data mining techniques to real business problems.
+Next, you can enter the [Practical Applications](/en/learning-path/practical.html) phase to learn how to apply data mining techniques to real business problems.
 
 <div class="practice-link">
-  <a href="/learning-path/practical.html" class="button">Go to Practical Applications</a>
+  <a href="/en/learning-path/practical.html" class="button">Go to Practical Applications</a>
 </div>

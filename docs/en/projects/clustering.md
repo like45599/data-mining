@@ -29,7 +29,7 @@ Clustering analysis is widely used in:
 
 The following projects focus on the application of clustering analysis, helping you master this important data mining skill:
 
-### [Customer Segmentation Analysis](/projects/clustering/customer-segmentation.html)
+### [Customer Segmentation Analysis](/en/projects/clustering/customer-segmentation.html)
 
 <div class="project-card">
   <div class="project-card__header">
@@ -49,11 +49,11 @@ The following projects focus on the application of clustering analysis, helping 
     </div>
   </div>
   <div class="project-card__footer">
-    <a href="/projects/clustering/customer-segmentation.html" class="button">View Details</a>
+    <a href="/en/projects/clustering/customer-segmentation.html" class="button">View Details</a>
   </div>
 </div>
 
-### [Image Color Segmentation](/projects/clustering/image-segmentation.html)
+### [Image Color Segmentation](/en/projects/clustering/image-segmentation.html)
 
 <div class="project-card">
   <div class="project-card__header">
@@ -73,7 +73,7 @@ The following projects focus on the application of clustering analysis, helping 
     </div>
   </div>
   <div class="project-card__footer">
-    <a href="/projects/clustering/image-segmentation.html" class="button">View Details</a>
+    <a href="/en/projects/clustering/image-segmentation.html" class="button">View Details</a>
   </div>
 </div>
 
@@ -130,5 +130,5 @@ Clustering analysis is a powerful tool for discovering the inherent structure of
 4. Explore the integration of clustering with other data mining techniques
 
 <div class="practice-link">
-  <a href="/projects/clustering/customer-segmentation.html" class="button">Start Your First Clustering Project</a>
+  <a href="/en/projects/clustering/customer-segmentation.html" class="button">Start Your First Clustering Project</a>
 </div>

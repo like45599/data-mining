@@ -327,6 +327,8 @@ plt.show()
 2. 在什么情况下，删除含缺失值的样本比填充更合适？
 3. 如何评估缺失值处理方法的有效性？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/preprocessing.html" class="button">前往实践项目</a>
 </div> 

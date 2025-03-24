@@ -10,7 +10,7 @@
       <li><strong>Type</strong>: Classification</li>
       <!-- <li><strong>Estimated Time</strong>: 6-8 hours</li> -->
       <li><strong>Skill Points</strong>: Handling imbalanced data, feature engineering, model interpretation, evaluation metric selection</li>
-      <li><strong>Related Knowledge Module</strong>: <a href="/core/classification/svm.html">Classification Algorithms</a></li>
+      <li><strong>Related Knowledge Module</strong>: <a href="/en/core/classification/svm.html">Classification Algorithms</a></li>
     </ul>
   </div>
 </div>
@@ -476,5 +476,5 @@ In practical applications, credit risk models need to be updated and monitored r
 3. How can the credit risk model be integrated with business processes to serve as an effective decision support tool?
 
 <div class="practice-link">
-  <a href="/projects/clustering/customer-segmentation.html" class="button">Next Module: Customer Segmentation Project</a>
+  <a href="/en/projects/clustering/customer-segmentation.html" class="button">Next Module: Customer Segmentation Project</a>
 </div>

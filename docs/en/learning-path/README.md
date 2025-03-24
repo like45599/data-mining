@@ -43,7 +43,7 @@ Follow the learning path below to gradually master the core knowledge and skills
       <h3>Beginner's Guide</h3>
     </div>
     <p>Introductory materials and learning paths for absolute beginners</p>
-    <a href="/learning-path/beginner.html" class="resource-card__link">Learn More</a>
+    <a href="/en/learning-path/beginner.html" class="resource-card__link">Learn More</a>
   </div>
   
   <div class="resource-card">
@@ -52,7 +52,7 @@ Follow the learning path below to gradually master the core knowledge and skills
       <h3>Advanced Learning</h3>
     </div>
     <p>Deep dive into advanced algorithms and techniques to enhance your data mining capabilities</p>
-    <a href="/learning-path/advanced.html" class="resource-card__link">Learn More</a>
+    <a href="/en/learning-path/advanced.html" class="resource-card__link">Learn More</a>
   </div>
   
   <div class="resource-card">
@@ -61,7 +61,7 @@ Follow the learning path below to gradually master the core knowledge and skills
       <h3>Practical Applications</h3>
     </div>
     <p>Apply data mining techniques to real-world business problems</p>
-    <a href="/learning-path/practical.html" class="resource-card__link">Learn More</a>
+    <a href="/en/learning-path/practical.html" class="resource-card__link">Learn More</a>
   </div>
 </div>
 

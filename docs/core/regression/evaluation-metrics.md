@@ -418,6 +418,8 @@ plt.show()
 2. 为什么R²可能为负值，这意味着什么？
 3. 如何根据业务需求选择最合适的评估指标？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/regression.html" class="button">前往实践项目</a>
 </div> 

@@ -323,6 +323,8 @@ Handling missing values is a critical step in data preprocessing. The right meth
 2. Under what circumstances is it more appropriate to delete samples with missing values rather than impute them?
 3. How can we evaluate the effectiveness of different missing value handling methods?
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/preprocessing.html" class="button">Proceed to Practice Projects</a>
 </div>

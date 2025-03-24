@@ -10,7 +10,7 @@
       <li><strong>Type</strong>: Clustering Analysis</li>
       <!-- <li><strong>Estimated Time</strong>: 5-7 hours</li> -->
       <li><strong>Skills</strong>: Data Standardization, K-Means Clustering, Cluster Evaluation, Business Interpretation</li>
-      <li><strong>Related Knowledge Module</strong>: <a href="/core/clustering/kmeans.html">Clustering Algorithms</a></li>
+      <li><strong>Related Knowledge Module</strong>: <a href="/en/core/clustering/kmeans.html">Clustering Algorithms</a></li>
     </ul>
   </div>
 </div>
@@ -414,5 +414,5 @@ Through this project, we learned how to use clustering algorithms to segment cus
 3. How can the business value of customer segmentation be evaluated? What metrics can be used to measure the effectiveness of segmentation strategies?
 
 <div class="practice-link">
-  <a href="/projects/clustering/image-segmentation.html" class="button">Next Project: Image Color Segmentation</a>
+  <a href="/en/projects/clustering/image-segmentation.html" class="button">Next Project: Image Color Segmentation</a>
 </div>

@@ -10,7 +10,7 @@
       <li><strong>Type</strong>: Regression - Advanced</li>
       <!-- <li><strong>Estimated Time</strong>: 5-7 hours</li> -->
       <li><strong>Skills</strong>: Anomaly detection, time series analysis, predictive modeling</li>
-      <li><strong>Related Knowledge Module</strong>: <a href="/core/regression/linear-regression.html">Regression Analysis</a></li>
+      <li><strong>Related Knowledge Module</strong>: <a href="/en/core/regression/linear-regression.html">Regression Analysis</a></li>
     </ul>
   </div>
 </div>
@@ -372,5 +372,5 @@ In practical applications, predictive maintenance systems help businesses reduce
 3. How can a predictive maintenance system be integrated into a company’s maintenance management process to achieve maximum value?
 
 <div class="practice-link">
-  <a href="/projects/" class="button">Return to Project List</a>
+  <a href="/en/projects/" class="button">Return to Project List</a>
 </div>

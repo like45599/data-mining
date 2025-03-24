@@ -29,7 +29,7 @@ Classification algorithms are widely used in:
 
 The following projects focus on the application of classification algorithms, helping you master this core data mining skill:
 
-### [Titanic Survival Prediction](/projects/classification/titanic.html)
+### [Titanic Survival Prediction](/en/projects/classification/titanic.html)
 
 <div class="project-card">
   <div class="project-card__header">
@@ -49,11 +49,11 @@ The following projects focus on the application of classification algorithms, he
     </div>
   </div>
   <div class="project-card__footer">
-    <a href="/projects/classification/titanic.html" class="button">View Details</a>
+    <a href="/en/projects/classification/titanic.html" class="button">View Details</a>
   </div>
 </div>
 
-### [Spam Email Filter](/projects/classification/spam-filter.html)
+### [Spam Email Filter](/en/projects/classification/spam-filter.html)
 
 <div class="project-card">
   <div class="project-card__header">
@@ -73,11 +73,11 @@ The following projects focus on the application of classification algorithms, he
     </div>
   </div>
   <div class="project-card__footer">
-    <a href="/projects/classification/spam-filter.html" class="button">View Details</a>
+    <a href="/en/projects/classification/spam-filter.html" class="button">View Details</a>
   </div>
 </div>
 
-### [Credit Risk Assessment](/projects/classification/credit-risk.html)
+### [Credit Risk Assessment](/en/projects/classification/credit-risk.html)
 
 <div class="project-card">
   <div class="project-card__header">
@@ -97,7 +97,7 @@ The following projects focus on the application of classification algorithms, he
     </div>
   </div>
   <div class="project-card__footer">
-    <a href="/projects/classification/credit-risk.html" class="button">View Details</a>
+    <a href="/en/projects/classification/credit-risk.html" class="button">View Details</a>
   </div>
 </div>
 
@@ -154,5 +154,5 @@ Classification algorithms are one of the core tools in data mining, and masterin
 4. Explore more advanced ensemble learning techniques
 
 <div class="practice-link">
-  <a href="/projects/classification/titanic.html" class="button">Start Your First Classification Project</a>
+  <a href="/en/projects/classification/titanic.html" class="button">Start Your First Classification Project</a>
 </div>

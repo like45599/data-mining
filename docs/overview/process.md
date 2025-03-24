@@ -257,6 +257,8 @@ print(classification_report(y_test, y_pred))
 2. 数据准备阶段可能面临哪些常见挑战，如何克服？
 3. 如何平衡模型复杂性和可解释性的需求？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/overview/applications.html" class="button">下一节：数据挖掘应用</a>
 </div> 

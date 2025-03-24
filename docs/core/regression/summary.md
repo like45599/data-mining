@@ -312,6 +312,8 @@ plt.show()
 2. 回归分析如何与其他机器学习技术（如分类、聚类）结合使用？
 3. 在大数据和计算资源有限的情况下，如何选择合适的回归方法？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/regression.html" class="button">前往实践项目</a>
 </div> 

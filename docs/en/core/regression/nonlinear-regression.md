@@ -471,6 +471,8 @@ plt.show()
 
 Nonlinear regression is a powerful tool for modeling complex relationships in data. By understanding the characteristics of different models, applying appropriate regularization, and using cross-validation, we can build robust nonlinear regression models that provide high accuracy.
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/prediction.html" class="button">Go to Practice Projects</a>
 </div>

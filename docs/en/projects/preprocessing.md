@@ -29,7 +29,7 @@ Data preprocessing primarily addresses the following issues:
 
 The following projects focus on the application of data preprocessing techniques, helping you master this essential skill:
 
-### [E-commerce User Data Cleaning and Analysis](/projects/preprocessing/ecommerce-data.html)
+### [E-commerce User Data Cleaning and Analysis](/en/projects/preprocessing/ecommerce-data.html)
 
 <div class="project-card">
   <div class="project-card__header">
@@ -49,11 +49,11 @@ The following projects focus on the application of data preprocessing techniques
     </div>
   </div>
   <div class="project-card__footer">
-    <a href="/projects/preprocessing/ecommerce-data.html" class="button">View Details</a>
+    <a href="/en/projects/preprocessing/ecommerce-data.html" class="button">View Details</a>
   </div>
 </div>
 
-### [Medical Data Missing Value Handling](/projects/preprocessing/medical-missing-values.html)
+### [Medical Data Missing Value Handling](/en/projects/preprocessing/medical-missing-values.html)
 
 <div class="project-card">
   <div class="project-card__header">
@@ -73,7 +73,7 @@ The following projects focus on the application of data preprocessing techniques
     </div>
   </div>
   <div class="project-card__footer">
-    <a href="/projects/preprocessing/medical-missing-values.html" class="button">View Details</a>
+    <a href="/en/projects/preprocessing/medical-missing-values.html" class="button">View Details</a>
   </div>
 </div>
 
@@ -129,5 +129,5 @@ Data preprocessing is the foundation of building successful data mining projects
 4. Explore more advanced feature engineering techniques
 
 <div class="practice-link">
-  <a href="/projects/preprocessing/ecommerce-data.html" class="button">Start Your First Preprocessing Project</a>
+  <a href="/en/projects/preprocessing/ecommerce-data.html" class="button">Start Your First Preprocessing Project</a>
 </div>

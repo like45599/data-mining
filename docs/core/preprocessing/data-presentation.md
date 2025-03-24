@@ -525,6 +525,8 @@ df_optimized = reduce_mem_usage(df)
 2. 特征缩放对哪些机器学习算法影响较大？
 3. 如何处理既有数值特征又有类别特征的混合数据集？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/preprocessing.html" class="button">前往实践项目</a>
 </div> 

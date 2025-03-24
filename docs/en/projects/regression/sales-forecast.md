@@ -10,7 +10,7 @@
       <li><strong>Type</strong>: Regression - Intermediate</li>
       <!-- <li><strong>Estimated Time</strong>: 4-6 hours</li> -->
       <li><strong>Skills</strong>: Time series analysis, feature engineering, regression models</li>
-      <li><strong>Related Knowledge Module</strong>: <a href="/core/regression/linear-regression.html">Regression Analysis</a></li>
+      <li><strong>Related Knowledge Module</strong>: <a href="/en/core/regression/linear-regression.html">Regression Analysis</a></li>
     </ul>
   </div>
 </div>
@@ -314,5 +314,5 @@ In practice, sales forecasting models help businesses optimize inventory managem
 3. How can sales forecasting results be translated into specific business decisions and actions?
 
 <div class="practice-link">
-  <a href="/projects/regression/anomaly-detection.html" class="button">Next Project: Anomaly Detection and Prediction</a>
+  <a href="/en/projects/regression/anomaly-detection.html" class="button">Next Project: Anomaly Detection and Prediction</a>
 </div>

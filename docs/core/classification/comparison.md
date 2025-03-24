@@ -391,6 +391,8 @@ print(f"堆叠分类器准确率: {accuracy:.4f}")
 2. 如何平衡模型的预测性能和解释性？
 3. 为什么集成方法通常能提高分类性能？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/classification.html" class="button">前往实践项目</a>
 </div> 

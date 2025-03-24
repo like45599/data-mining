@@ -10,7 +10,7 @@
       <li><strong>Type</strong>: Data cleaning and preprocessing</li>
       <!-- <li><strong>Estimated Time</strong>: 3-5 hours</li> -->
       <li><strong>Skills</strong>: Missing value treatment, anomaly detection, data transformation, feature engineering</li>
-      <li><strong>Corresponding Knowledge Module</strong>: <a href="/core/preprocessing/data-presentation.html">Data Preprocessing</a></li>
+      <li><strong>Corresponding Knowledge Module</strong>: <a href="/en/core/preprocessing/data-presentation.html">Data Preprocessing</a></li>
     </ul>
   </div>
 </div>
@@ -299,6 +299,6 @@ In practical applications, this kind of data cleaning work helps e-commerce plat
 3. How can the effectiveness of data cleaning and preprocessing be evaluated? What metrics can measure the improvement in data quality?
 
 <div class="practice-link">
-  <a href="/projects/preprocessing/medical-missing-values.html" class="button">Next Project: Handling Missing Values in Medical Data</a>
+  <a href="/en/projects/preprocessing/medical-missing-values.html" class="button">Next Project: Handling Missing Values in Medical Data</a>
 </div>
 

@@ -372,6 +372,8 @@ K-Means是一种简单而强大的聚类算法，尽管有一些局限性，但�
 2. 如何处理K-Means对异常值的敏感性？
 3. 除了肘部法则和轮廓系数，还有哪些方法可以确定最佳K值？
 
+<BackToPath />
+
 <div class="practice-link">
   <a href="/projects/clustering.html" class="button">前往实践项目</a>
 </div> 

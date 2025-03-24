@@ -1,5 +1,4 @@
 # 数据挖掘的定义与基本概念
-
 <div class="knowledge-card">
   <div class="knowledge-card__title">
     <span class="icon">📚</span>本节要点
@@ -132,6 +131,8 @@ print(f"模型准确率: {accuracy:.4f}")
 1. 数据挖掘如何改变你所在行业的决策方式？
 2. 在日常生活中，你能想到哪些数据挖掘的应用实例？
 3. 数据挖掘面临哪些技术和伦理挑战？
+
+<BackToPath />
 
 <div class="practice-link">
   <a href="/overview/process.html" class="button">下一节：数据挖掘过程</a>

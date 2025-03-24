@@ -11,7 +11,7 @@
       <li><strong>Type</strong>: Text Classification</li>
       <!-- <li><strong>Estimated Time</strong>: 5-7 hours</li> -->
       <li><strong>Skills</strong>: Text Preprocessing, Feature Extraction, Naive Bayes Classification, Model Evaluation</li>
-      <li><strong>Relevant Knowledge Module</strong>: <a href="/core/classification/svm.html">Classification Algorithms</a></li>
+      <li><strong>Relevant Knowledge Module</strong>: <a href="/en/core/classification/svm.html">Classification Algorithms</a></li>
     </ul>
   </div>
 </div>
@@ -358,5 +358,5 @@ In practice, spam filtering systems need to be regularly updated to cope with ne
 3. How do you handle evasion techniques used by spam senders, such as deliberate misspellings or using images instead of text?
 
 <div class="practice-link">
-  <a href="/projects/classification/credit-risk.html" class="button">Next Project: Credit Risk Assessment</a>
+  <a href="/en/projects/classification/credit-risk.html" class="button">Next Project: Credit Risk Assessment</a>
 </div>
