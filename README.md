@@ -1,23 +1,96 @@
-# 数据挖掘概述
 
-## 为什么学习数据挖掘？
+# Data Mining Guide
 
-在当今数据爆炸的时代，数据挖掘技术已成为从海量信息中提取价值的关键能力。无论是商业决策、科学研究还是日常生活，数据挖掘都在发挥着越来越重要的作用。本网站旨在帮助你：
+欢迎使用 **Data Mining Guide**！这是一个基于 **Vue.js** 和 **VuePress** 的项目，旨在为用户提供数据挖掘的学习和实践资源。
 
-- 系统掌握数据挖掘的核心概念和方法
-- 通过实践案例加深对算法的理解
-- 培养解决实际问题的数据分析能力
-- 为进一步学习机器学习和人工智能打下基础
+## 项目结构
 
-## 如何使用本网站？
+此项目包含以下主要部分：
 
-1. 从[数据挖掘概述](/overview/)开始，了解基本概念
-2. 参考[学习路径图](/learning-path/)规划你的学习过程
-3. 深入学习四大[核心知识](/core/preprocessing/data-presentation.html)模块
-4. 通过[实践项目](/projects/)巩固所学知识
-5. 利用[学习资源](/resources/)进一步拓展视野
+- **Vue (端口：3000)**：用于构建前端应用。
+- **VuePress (端口：3001)**：用于构建文档网站和学习指南。
 
-<div class="custom-action-buttons">
-  <a href="/learning-path/" class="custom-button primary">查看学习路径</a>
-  <a href="/projects/" class="custom-button secondary">开始实践项目</a>
-</div> 
+## 项目目录结构
+
+```
+data-mining-guide/
+├── docs/                    # VuePress 文档目录
+│   ├── .vuepress/           # VuePress 配置和公共文件
+│   │   ├── public/          # 公共资源
+│   │   ├── styles/          # 样式
+│   ├── overview/            # 概览文档
+│   ├── learning-path/       # 学习路径文档
+│   ├── core/                # 核心概念文档
+│   ├── projects/            # 项目展示
+│   └── about/               # 关于本项目
+└── en/                      # 英文版本
+```
+
+## 安装与运行
+
+### 1. 创建项目目录并初始化
+
+```bash
+mkdir data-mining-guide
+cd data-mining-guide
+npm init -y
+git init
+```
+
+### 2. 安装依赖
+
+安装 VuePress 及其相关依赖：
+
+```bash
+npm install -D vuepress@next
+npm install -D @vuepress/bundler-vite@next @vuepress/theme-default@next
+npm install @vuepress/utils@next @vuepress/plugin-register-components@next 
+npm install -D sass-embedded
+npm i -D @vuepress/plugin-markdown-math@next
+npm i -D mathjax-full
+```
+
+
+### 4. 开发与构建
+
+- **启动开发服务器：**
+```bash
+npm run docs:dev
+```
+
+- **打包项目：**
+```bash
+npm run docs:build
+```
+
+### （可选）打包后运行
+
+#### 安装 serve
+```bash
+npm install -g serve
+```
+
+#### 进入打包后的 dist 目录
+```bash
+cd docs/.vuepress/dist
+```
+
+#### 启动服务器
+```bash
+serve
+```
+
+## 贡献
+
+欢迎提出问题或贡献代码！请提交 Pull Request 或报告问题。
+
+
+
+## 联系信息
+
+如果您有任何问题或建议，请通过以下方式与我们联系：
+
+- Email: 1271383559@qq.com
+- GitHub：[github.com/like45599](https://github.com/like45599) 
+
+感谢您使用 **Data Mining Guide**！
