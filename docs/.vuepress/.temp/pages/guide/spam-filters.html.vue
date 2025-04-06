@@ -1,0 +1,22 @@
+<template><div><h1 id="垃圾邮件过滤" tabindex="-1"><a class="header-anchor" href="#垃圾邮件过滤"><span>垃圾邮件过滤</span></a></h1>
+<h2 id="朴素贝叶斯原理" tabindex="-1"><a class="header-anchor" href="#朴素贝叶斯原理"><span>朴素贝叶斯原理</span></a></h2>
+<p>朴素贝叶斯是一种基于贝叶斯定理的分类算法，特别适用于文本分类问题。</p>
+<h2 id="文本预处理" tabindex="-1"><a class="header-anchor" href="#文本预处理"><span>文本预处理</span></a></h2>
+<ol>
+<li>分词</li>
+<li>去停用词</li>
+<li>词袋模型</li>
+<li>TF-IDF转换</li>
+</ol>
+<h2 id="实现步骤" tabindex="-1"><a class="header-anchor" href="#实现步骤"><span>实现步骤</span></a></h2>
+<ol>
+<li>数据收集</li>
+<li>特征提取</li>
+<li>模型训练</li>
+<li>性能评估</li>
+</ol>
+<h2 id="实践案例" tabindex="-1"><a class="header-anchor" href="#实践案例"><span>实践案例</span></a></h2>
+<p>[待补充具体案例代码和数据]</p>
+</div></template>
+
+
